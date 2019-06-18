@@ -4,7 +4,7 @@
 </head>
 <body>
 <form action="work2.php" method="post">
-<h1 align="centre">Reg<?php echo htmlspecialchars($_POST['Reg']); ?></h1>
+<h1 align="centre">Reg<?php echo htmlspecialchars($_POST['reg']); ?></h1>
 <p>Здравствуйте, введите ваши данные для регистрации</p>
 
     <p>Name: <input type="text" name="name" /></p>
