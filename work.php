@@ -4,7 +4,7 @@
 </head>
 <body>
 <p>Здравствуйте, введите ваши данные для регистрации</p>
-<form action="action.php" method="post">
+<form action="work2.php" method="post">
     <p>Name: <input type="text" name="name" /></p>
     <p>Email: <input type="email" name="email" /></p>
     <p>Password: <input type="password" name="password" /></p>
