@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="14" last-seen="1560824868"/>
+    <application id="firefox.desktop" open-window-count="1" score="932" last-seen="1560829297"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1560776528"/>
+    <application id="file-roller.desktop" open-window-count="0" score="0" last-seen="1560776037"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="180" last-seen="1560828841"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1560745509"/>
+    <application id="gnome-session-properties.desktop" open-window-count="0" score="0" last-seen="1560776611"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="5" last-seen="1560779760"/>
+    <application id="gnome-network-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="10" last-seen="1560777010"/>
+    <application id="gcr-viewer.desktop" open-window-count="0" score="0" last-seen="1560776596"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1260" last-seen="1560829139"/>
+    <application id="evince.desktop" open-window-count="0" score="1" last-seen="1560776494"/>
+    <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="3" last-seen="1560748848"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="3" last-seen="1560776070"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="29" last-seen="1560827234"/>
+    <application id="phpstorm_phpstorm.desktop" open-window-count="2" score="1071" last-seen="1560829264"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="0" last-seen="1560750604"/>
+  </context>
+</application-state>
