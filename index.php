@@ -11,7 +11,7 @@
 <body>
 <div class ="main">
     <form action="work.php" method="post">
-        <p><input type="submit" name="Регистрация" /></p>
+        <p><input type="button" name="Регистрация" /></p>
     </form>
 </div>
 <p>Бла бла бла</p>
